@@ -25,3 +25,5 @@
 [Luan](https://github.com/userluandev/ModuleHtml)
 
 [Zobrine](https://github.com/Zolbrine/ModuleHtml)
+
+[Nicolas](https://github.com/Spykoff/ModuleHtml)
