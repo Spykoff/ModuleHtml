@@ -1,0 +1,14 @@
+h1, em
+{
+    color: blue; /* les titres et <em> seront en bleu */
+}
+
+.introduction
+{
+    color: blue;
+}
+
+.salutation
+{
+    color: blue;
+}

@@ -1,0 +1,18 @@
+section{
+    background-color: whitesmoke;
+}
+
+h1, footer
+{
+    color: blue;
+    background-color: darkgray;
+    text-align: center;
+}
+
+header{
+    border: 5px solid black;
+    background-color: darkgray;
+    text-align: center;
+}
+
+
